@@ -1,0 +1,27 @@
+{
+  "name": "sinon-builds",
+  "version": "1.8.2",
+  "homepage": "http://sinonjs.org",
+  "description": "Prebuilt version of Sinon.JS",
+  "main": "pkg/sinon.js",
+  "keywords": [
+    "spies",
+    "mocks",
+    "spy",
+    "mock",
+    "unit",
+    "testing",
+    "tdd"
+  ],
+  "authors": [
+    "Christian Johansen"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
